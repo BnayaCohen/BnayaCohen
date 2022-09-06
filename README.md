@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BnayaCohen](My Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/BnayaCohen](https://github.com/BnayaCohen?tab=repositories)
 
 - 📫 How to reach me **bnaya98@gmail.com**
 
