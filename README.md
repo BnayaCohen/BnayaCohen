@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bnaya Cohen</h1>
-<h3 align="center">A passionate Full-stack/ Frontend developer from Israel</h3>
+<h3 align="center">Searching for my next challenge as a Full-stack/ Frontend developer</h3>
 
 - 🔭 I’m currently looking for my first opportunity to work in **web development**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BnayaCohen](https://github.com/BnayaCohen?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/BnayaCohen?tab=repositories)
 
 - 📫 How to reach me **bnaya98@gmail.com**
 
