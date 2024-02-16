@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bnaya Cohen</h1>
 <h3 align="center">Searching for my next challenge as a Full-stack/ Frontend developer</h3>
 
-- 🔭 I’m currently looking for my first opportunity to work in **web development**
+- 🔭 I’m currently looking for job in **web development**
 
-- 🌱 I continue to learn and develop my skills in **React and Angular**
+- 🌱 I continue to learn and develop my skills in **React Next.js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bnaya98@gmail.com**
 
-- ⚡ Fun fact **I'm also a Videographer**
+- ⚡ Fun fact **I'm also a Photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
