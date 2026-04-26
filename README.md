@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://bnayacohen.github.io/portfolio/)
 
-- 📫 How to reach me **bnaya98@gmail.com**
-
 - ⚡ Fun fact **I'm also a Photographer**
 
 <h3 align="left">Connect with me:</h3>
